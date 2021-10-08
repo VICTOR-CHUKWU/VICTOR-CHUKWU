@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Victor Chukwu.&nbsp;(VICTOR-CHUKWU)</h1>
 <h3 align="center">A Software developer from Nigeria.</h3>
 
-## **About me** :woman:
+## **About me** :man:
 
 - I am currently enrolled at ![](https://img.shields.io/badge/-Microverse-blueviolet) studying to become a **Full-stack web developer** :computer:
 - I am doing my best to learn the programming best practices and become a better remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
@@ -17,7 +17,7 @@
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=d26a6a)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor)
+![Angular](https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor)
 
 ## **Tools** 🛠 
 
